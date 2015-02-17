@@ -1,0 +1,19 @@
+body{
+	background-image: url("Chicago Skyline.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 50% 50%;
+}
+.row{
+	position: relative;
+	top: 100px;
+}
+
+.image{
+	height: 500px;
+	width: 500px;
+}
+.col-md-4.col-md-offset-1{
+	background-color: rgb(255,255,255)
+}
+
