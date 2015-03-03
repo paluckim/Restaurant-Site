@@ -2,18 +2,25 @@ body{
 	background-image: url("Chicago Skyline.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-position: 50% 50%;
-}
-.row{
-	position: relative;
-	top: 100px;
 }
 
-.image{
-	height: 500px;
-	width: 500px;
+.one{
+	height: 60px;
 }
-.col-md-4.col-md-offset-1{
-	background-color: rgb(255,255,255)
+
+
+.carousel-inner{
+	height: 100%;
+	width: 100%;
+}
+
+.about{
+	background-color: rgb(255,255,255);
+	border-style: groove;
+	border-color: red;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-top: 0px;
+	padding-bottom: 0px;
 }
 
