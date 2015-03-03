@@ -1,4 +1,42 @@
-.row{
-	position: relative;
-	top: 30px;
+.one{
+	height:50px;
+}
+#antipasti{
+	height: 825px;
+	border-style:groove;
+	border-color: #CC9900;
+	border-width: 10px;
+
+}
+#soupsandsalads{
+	border-style:groove;
+	border-color: #CC9900;
+	border-width: 10px;
+
+}
+#housespecialties{
+	border-style:groove;
+	border-color:#CC9900;
+	border-width: 10px;
+}
+#burgers{
+	height: 639px;
+	border-style:groove;
+	border-color:#CC9900;
+	border-width: 10px;
+}
+#beverages{
+	border-style:groove;
+	border-color:#CC9900;
+	border-width: 10px;
+
+}
+.col-md-2{
+	color:red;
+}
+h1{
+	font-weight: bold;
+}
+p{
+	font-style: italic;
 }
